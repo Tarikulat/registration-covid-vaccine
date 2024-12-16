@@ -37,8 +37,8 @@ This is a Laravel-based COVID Vaccine Registration System designed to streamline
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository_url]
-   cd covid-vaccine-registration
+   git clone: https://github.com/Tarikulat/registration-covid-vaccine.git
+   cd registration-covid-vaccine
    ```
 
 2. **Install dependencies:**
@@ -118,8 +118,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contact
 
 For questions or issues, feel free to reach out:
-- **Developer:** [Your Name]  
-- **Email:** [Your Email]
+- **Developer:** Md Tarikul Islam 
+- **Email:** tarikulat124@gmail.com
 
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
